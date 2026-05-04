@@ -1,0 +1,1 @@
+sintaxe = input("Insira a proposição da tabela-verdade: ")
